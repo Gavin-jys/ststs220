@@ -9,4 +9,4 @@ A little about me:
 - I am interested in learning about statistics
 
 A meme that captures how I currently feel about my university studies is
-https://user-images.githubusercontent.com/6876788/96633009-d1818000-1318-11eb-9f1d-7f914f4ccb16.gif
+![giphy](https://github.com/user-attachments/assets/dcad6bc1-0ea5-45ae-9d0b-3f4b9981c4b3)
